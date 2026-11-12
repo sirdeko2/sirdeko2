@@ -1,6 +1,6 @@
 # Hi, I'm Dehkontee Cuppah
 
-Cybersecurity and wireless engineer with a background in network security, digital forensics and 5G/V2X research. I like building secure, practical software, especially tools for people in Liberia and West Africa.
+Cybersecurity and wireless engineer with a background in network security, digital forensics and 5G/V2X research. I like building secure, practical software, especially tools for people in Liberia and Africa as a whole.
 
 - **Education:** M.S. Computer Science, University of Minnesota · M.Sc. Computer Science, Bangalore University · B.Sc. (Hons) Network Security & Computer Forensics, Botho University
 - **Research:** 5G network measurement, V2X testbeds (co-author, ACM HotMobile 2025)
