@@ -13,9 +13,10 @@ Cybersecurity and wireless engineer with a background in network security, digit
 | [YeleCare](https://github.com/sirdeko2/yelecare-showcase) | Care-management platform for disability-support group homes, built with HIPAA-oriented security | TypeScript, Fastify, PostgreSQL (RLS), Prisma, React, React Native |
 | [BarBros](https://github.com/sirdeko2/barbros-showcase) | Study platform for Liberian law students, with an AI tutor | Next.js, TypeScript, Express, Prisma, PostgreSQL, Claude API |
 | [WASSCEPrep](https://github.com/sirdeko2/wassceprep-showcase) | Exam-prep app for Liberian high school students, with AI marking | React, Vite, Supabase, serverless functions, Claude API |
+| [Adaptive Hybrid IDS](https://github.com/sirdeko2/adaptive-hybrid-ids-showcase) | Research: hybrid intrusion detection for zero-day attacks with adaptive signature generation (extends my 2019 paper) | Python, scikit-learn, hmmlearn |
 | [twamp-latency-lab](https://github.com/sirdeko2/twamp-latency-lab) | Open-source TWAMP-Light latency tool with one-way delay and clock offset/drift estimation | Python, Docker, tc netem |
 
-twamp-latency-lab is open source. The other three are personal projects in development: their source code is private, each link has an overview, and I'm happy to walk through the code in an interview.
+twamp-latency-lab is open source. The others are personal or research projects in development: their source code is private, each link has an overview, and I'm happy to walk through the code in an interview.
 
 ## Tools I use
 
