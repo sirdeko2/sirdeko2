@@ -14,10 +14,11 @@ Cybersecurity and wireless engineer with a background in network security, digit
 | [BarBros](https://github.com/sirdeko2/barbros-showcase) | Study platform for Liberian law students, with an AI tutor | Next.js, TypeScript, Express, Prisma, PostgreSQL, Claude API |
 | [WASSCEPrep](https://github.com/sirdeko2/wassceprep-showcase) | Exam-prep app for Liberian high school students, with AI marking | React, Vite, Supabase, serverless functions, Claude API |
 | [Adaptive Hybrid IDS](https://github.com/sirdeko2/adaptive-hybrid-ids-showcase) | Research: hybrid intrusion detection for zero-day attacks with adaptive signature generation (extends my 2019 paper) | Python, scikit-learn, hmmlearn |
+| [Supplier Risk Radar](https://github.com/sirdeko2/supplier-risk-radar) | Open-source supplier-risk pipeline: joins the live CISA KEV catalog to a supplier inventory, with a dimensional model, data-quality contracts and traceable, confidence-rated findings | Python, DuckDB, SQL, GitHub Actions |
 | [suricata-detection-lab](https://github.com/sirdeko2/suricata-detection-lab) | Open-source network detection lab: custom Suricata rules, analytics for beaconing, exfiltration and DNS tunnelling, and detection-as-code tests in CI | Suricata, Python, Docker, GitHub Actions |
 | [twamp-latency-lab](https://github.com/sirdeko2/twamp-latency-lab) | Open-source TWAMP-Light latency tool with one-way delay and clock offset/drift estimation | Python, Docker, tc netem |
 
-suricata-detection-lab and twamp-latency-lab are open source. The others are personal or research projects in development: their source code is private, each link has an overview, and I'm happy to walk through the code in an interview.
+supplier-risk-radar, suricata-detection-lab and twamp-latency-lab are open source. The others are personal or research projects in development: their source code is private, each link has an overview, and I'm happy to walk through the code in an interview.
 
 ## Tools I use
 
